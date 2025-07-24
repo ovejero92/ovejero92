@@ -1,6 +1,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&background=282139&center=true&vCenter=true&width=461&height=81&lines=Gustavo+Ovejero" alt="Typing SVG" />
 
-### 👋 ¡Hola! Soy Gustavo Ovejero
+### 🙋‍♂️ Sobre mí
 
 🎯 Desarrollador Web con experiencia en Django, Spring Boot, React e Ionic.  
 🧠 Me encanta construir soluciones reales, sólidas y funcionales.  
