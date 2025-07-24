@@ -21,7 +21,7 @@
 
 ### 🚀 Proyectos destacados
 
-- 🎯<a href="https://www.guapidjanjo.onrender.com/" target="_blank" style="text-decoration:none;color:black;"Sistema de turnos con Django (backend robusto)</a> 
+- 🎯<a href="https://www.guapidjanjo.onrender.com/" target="_blank" style="text-decoration:none;color:black;">Sistema de turnos con Django (backend robusto)</a> 
 - 💼 Proyecto Java + React + Ionic ([en proceso de publicación](https://github.com/ovejero92/Metsys))  
 - 📚 [Repositorio general de estudios y clases](https://github.com/ovejero92)
 
