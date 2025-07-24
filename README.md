@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGuDLn2siA/c-9syOFtmbbyVM0OIb68Dg/view?utm_content=DAGuDLn2siA&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hee4ff50285" alt="Typing SVG" />
+<img src="https://https://github.com/ovejero92/ovejero92/Gustavo ovejero.png" alt="Typing SVG" />
 
 ### 👋 ¡Hola! Soy Gustavo Ovejero
 
