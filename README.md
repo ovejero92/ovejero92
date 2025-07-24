@@ -1,4 +1,4 @@
-<img src="https://https://github.com/ovejero92/ovejero92/Gustavo ovejero.png" alt="Typing SVG" />
+<img src="gustavo-ovejero.png" alt="Gustavo Ovejero banner" style="width:100%; border-radius: 10px;" />
 
 ### 👋 ¡Hola! Soy Gustavo Ovejero
 
