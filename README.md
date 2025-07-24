@@ -1,4 +1,4 @@
-<img src="gustavo-ovejero.png" alt="Gustavo Ovejero banner" style="width:100%; border-radius: 10px;" />
+<img src="(https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&background=282139&center=true&vCenter=true&width=461&height=81&lines=Gustavo+Ovejero)" alt="Gustavo Ovejero banner" style="width:100%; border-radius: 10px;" />
 
 ### 👋 ¡Hola! Soy Gustavo Ovejero
 
