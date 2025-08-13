@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&background=282139&center=true&vCenter=true&width=875&height=281&lines=Gustavo+Ovejero" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=36&pause=1000&background=282139&center=true&vCenter=true&width=875&height=181&lines=Gustavo+Ovejero" alt="Typing SVG" />
 
 ### 🙋‍♂️ Sobre mí
 
