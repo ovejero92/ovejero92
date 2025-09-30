@@ -1,6 +1,6 @@
 <!-- Título animado con typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hola%2C+soy+Gustavo+Ovejero;Desarrollador+Full+Stack;Backend+con+pasión+por+el+detalle" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&pause=1000&background=282139&center=true&vCenter=true&width=875&height=141&lines=Gustavo+Ovejero" alt="Typing SVG" />
 </p>
 
 <p align="center">
