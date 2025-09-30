@@ -1,51 +1,80 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=46&pause=1000&background=282139&center=true&vCenter=true&width=875&height=141&lines=Gustavo+Ovejero" alt="Typing SVG" />
+<!-- Título animado con typing effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Hola%2C+soy+Gustavo+Ovejero;Desarrollador+Full+Stack;Backend+con+pasión+por+el+detalle" alt="Typing SVG" />
+</p>
 
-### 🙋‍♂️ Sobre mí
-
-🎯 Desarrollador Web con experiencia en Django, Spring Boot, React e Ionic.  
-🧠 Me encanta construir soluciones reales, sólidas y funcionales.  
-📢 Busco oportunidades como desarrollador backend o full stack.
-
----
-
-### 🛠 Tecnologías
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+<p align="center">
+  <a href="https://linkedin.com/in/gustavo-ovejero">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:ovejero.gustavo92@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-### 🚀 Proyectos destacados
+## 🧑‍💻 Sobre mí
 
-- 🎯 [Sistema de turnos con Django (backend robusto)](https://www.turnosok.com)
-- 💼 Proyecto Java + React + Ionic ([en proceso de publicación](https://github.com/ovejero92/Metsys))  
-- 📚 [Repositorio general de estudios y clases](https://github.com/ovejero92)
+Soy un **desarrollador full stack** con sólida experiencia en **backend robusto** y arquitecturas escalables. Me especializo en:
 
----
+- ✅ **Django** y **Spring Boot** para APIs seguras y eficientes  
+- ✅ **React**, **Next.js** y **Ionic** para interfaces modernas  
+- ✅ Bases de datos relacionales (**MySQL**) y no relacionales (**MongoDB**)  
+- ✅ Ciclos de desarrollo ágiles, testing y buenas prácticas (clean code, CI/CD)
 
-### 📫 Contacto
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-ovejero)  
-✉️ ovejero.gustavo92@gmail.com  
-📍 Buenos Aires, Argentina
+> 🎯 Mi objetivo: construir **soluciones reales que resuelvan problemas**, no solo código que funcione.
 
 ---
 
-<!-- contador de visitas (opcional)
+## 🛠 Stack Técnico
+
+### Backend
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
+
+### Bases de Datos & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+
+---
+
+## 🚀 Proyectos Destacados
+
+### 🔒 [Sistema de Turnos - TurnosOK](https://www.turnosok.com)
+> Plataforma completa con **Django backend**, autenticación segura, gestión de turnos en tiempo real y panel administrativo.  
+**Tecnologías**: Python, Django, PostgreSQL, React
+
+### 📱 [Metsys - Aplicación Empresarial (Próximamente)](https://github.com/ovejero92/Metsys)
+> Solución full stack para gestión de recursos. Backend en **Spring Boot**, frontend móvil con **Ionic** y web con **React**.  
+*(En fase final de lanzamiento)*
+
+### 📚 [Repositorio de Aprendizaje](https://github.com/ovejero92)
+> Código limpio, ejemplos didácticos y proyectos académicos. Ideal para ver mi evolución técnica.
+
+---
+
+## 📬 ¿Trabajamos juntos?
+
+Estoy abierto a **oportunidades como desarrollador backend o full stack**, ya sea en remoto o en Buenos Aires.
+
+- ✉️ **Email**: [ovejero.gustavo92@gmail.com](mailto:ovejero.gustavo92@gmail.com)  
+- 💼 **LinkedIn**: [Gustavo Ovejero](https://linkedin.com/in/gustavo-ovejero)  
+- 🌍 **Ubicación**: Buenos Aires, Argentina
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ovejero92&style=flat-square" alt="visitors"/>
-</p> -->
+  <img src="https://komarev.com/ghpvc/?username=ovejero92&color=blueviolet&style=flat-square" alt="visitas" />
+</p>
