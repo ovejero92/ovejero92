@@ -74,7 +74,7 @@ Soy un **desarrollador full stack** con sólida experiencia en **backend robusto
 
 You can explore my work, projects and case studies here:
 
-👉 **https://gustavo-ovejero.vercel.app**
+👉 **https://ovejero-portfolio.vercel.app**
 
 ---
 
