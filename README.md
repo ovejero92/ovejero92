@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://gustavo-ovejero.vercel.app">
+  <a href="[https://gustavo-ovejero.vercel.app](https://ovejero-portfolio.vercel.app/)">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/gustavo-ovejero">
