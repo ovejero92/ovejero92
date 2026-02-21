@@ -4,6 +4,9 @@
 </p>
 
 <p align="center">
+  <a href="https://gustavo-ovejero.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/gustavo-ovejero">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -64,6 +67,14 @@ Soy un **desarrollador full stack** con sólida experiencia en **backend robusto
 
 ### 📚 [Repositorio de Aprendizaje](https://github.com/ovejero92)
 > Código limpio, ejemplos didácticos y proyectos académicos. Ideal para ver mi evolución técnica.
+
+---
+
+## 🌐 Portfolio
+
+You can explore my work, projects and case studies here:
+
+👉 **https://gustavo-ovejero.vercel.app**
 
 ---
 
