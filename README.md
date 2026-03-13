@@ -54,20 +54,63 @@ Soy un **desarrollador full stack** con sólida experiencia en **backend robusto
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 ---
-
+ 
 ## 🚀 Proyectos Destacados
-
-### 🔒 [Sistema de Turnos - TurnosOK](https://www.turnosok.com)
-> Plataforma completa con **Django backend**, autenticación segura, gestión de turnos en tiempo real y panel administrativo.  
-**Tecnologías**: Python, Django, PostgreSQL, React
-
-### 📱 [Metsys - Aplicación Empresarial (Próximamente)](https://github.com/ovejero92/Metsys)
-> Solución full stack para gestión de recursos. Backend en **Spring Boot**, frontend móvil con **Ionic** y web con **React**.  
-*(En fase final de lanzamiento)*
-
-### 📚 [Repositorio de Aprendizaje](https://github.com/ovejero92)
-> Código limpio, ejemplos didácticos y proyectos académicos. Ideal para ver mi evolución técnica.
-
+ 
+### 🔒 TurnosOK — Gestión de Turnos
+![Status](https://img.shields.io/badge/Estado-Producción-2ea44f?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Django_+_React-092E20?style=flat-square&logo=django&logoColor=white)
+ 
+Plataforma completa para gestión de turnos con autenticación segura, sistema de reservas en tiempo real, panel administrativo, notificaciones automáticas y calendario interactivo.
+ 
+**Tecnologías:** Python · Django · PostgreSQL · React · REST API
+ 
+[![Live](https://img.shields.io/badge/🌐_Ver_sitio-000000?style=for-the-badge)](https://www.turnosok.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovejero92/GuApiDjanjo)
+ 
+---
+ 
+### 🛍️ Calia Carteras — Ecommerce
+![Status](https://img.shields.io/badge/Estado-Producción-2ea44f?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Node.js_+_React-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+ 
+Tienda online de carteras con sistema completo de gestión de pedidos. Incluye una interfaz pública donde los clientes pueden explorar productos y realizar pedidos, y un panel administrativo construido con Node.js y Handlebars para gestionar el inventario.
+ 
+**Tecnologías:** Node.js · Express · Handlebars · Firebase · Cloudinary · JavaScript · React
+ 
+[![Live](https://img.shields.io/badge/🌐_Ver_sitio-000000?style=for-the-badge)](https://calia-carteras.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovejero92/Calia-carteras)
+ 
+---
+ 
+### 🛒 EcommerceQG
+![Status](https://img.shields.io/badge/Estado-En_desarrollo-e3a008?style=flat-square)
+![Frontend](https://img.shields.io/badge/Frontend-Angular_+_Node.js-DD0031?style=flat-square&logo=angular&logoColor=white)
+ 
+> ⚠️ *Proyecto en desarrollo activo — funcionalidades principales implementadas, backend en proceso de migración a producción.*
+ 
+Tienda online con carrito de compras, gestión de productos y panel de administración. Construida con Angular y arquitectura preparada para escalar a backend real en Node.js + MongoDB.
+ 
+**Tecnologías:** Angular · TypeScript · Node.js · Express · MongoDB
+ 
+[![Live](https://img.shields.io/badge/🌐_Demo-000000?style=for-the-badge)](https://kiostoreok.netlify.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovejero92/EcommerceQG)
+ 
+---
+ 
+### 🎓 Bootcamp Platform
+![Status](https://img.shields.io/badge/Estado-En_desarrollo-e3a008?style=flat-square)
+![Full Stack](https://img.shields.io/badge/Full_Stack-Next.js_+_Angular-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+ 
+> ⚠️ *Proyecto en desarrollo activo — estructura base y autenticación implementadas, módulos de cursos en progreso.*
+ 
+Plataforma de cursos online con sistema de autenticación, gestión de usuarios con roles (admin / profesor / alumno), catálogo de cursos y panel de administración.
+ 
+**Tecnologías:** Next.js · TypeScript · Angular · NgRx · SCSS
+ 
+[![Live](https://img.shields.io/badge/🌐_Demo-000000?style=for-the-badge)](https://bootcamp-next-five.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ovejero92/bootcamp-next)
+ 
 ---
 
 ## 🌐 Portfolio
